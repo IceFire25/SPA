@@ -25,7 +25,7 @@ function NoMatch() {
 function App() {
   return (
     <>
-      <BrowserRouter basename="/https://icefire25.github.io/SPA/">
+      <BrowserRouter>
         <Header/>
           <main className="container content">
             <Routes>
