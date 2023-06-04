@@ -5,9 +5,8 @@ function Footer() {
         <div className="container">
             © {new Date().getFullYear()}
               _Zakurenchik & Alina
-            <a className="grey-text 
-            text-lighten-4 right" 
-            href="https://icefire25.github.io/SPA/">Repository</a>
+              <a className="grey-text text-lighten-4 right"
+           href="/">Repository</a>
           </div>
         </div>
   </footer>
