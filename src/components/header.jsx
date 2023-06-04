@@ -16,7 +16,7 @@ function Header() {
                             <Link to="/about">About</Link>
                         </li>
                         <li>
-                            <Link to="#!">Repository</Link>
+                            <Link to="https://icefire25.github.io/SPA/">Repository</Link>
                         </li>
                     </ul>
                 </div>

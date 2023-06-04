@@ -7,7 +7,7 @@ function Footer() {
               _Zakurenchik & Alina
             <a className="grey-text 
             text-lighten-4 right" 
-            href="#!">Repository</a>
+            href="https://icefire25.github.io/SPA/">Repository</a>
           </div>
         </div>
   </footer>
